@@ -1,6 +1,7 @@
 Äpfel
 Birnen
 Orangen
+Drachenfrucht
 Kiwi
 Bier
 Leberkäse
