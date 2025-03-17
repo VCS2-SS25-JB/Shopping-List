@@ -2,3 +2,6 @@
 Birnen
 Bier
 Leberkäse
+Chips
+Wurst
+...
