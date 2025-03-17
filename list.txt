@@ -3,9 +3,6 @@ Birnen
 Orangen
 Bier
 Leberkäse
-	- normal
-	- käse
-	- chilli
 Chips
 Wurst
 ...
