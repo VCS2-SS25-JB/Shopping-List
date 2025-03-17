@@ -1,9 +1,11 @@
 Äpfel
 Birnen
 Orangen
+Kiwi
 Bier
 Leberkäse
 Chips
 Wurst
 ...
 fanta
+Red Bull
